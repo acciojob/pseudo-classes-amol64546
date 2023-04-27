@@ -1,9 +1,9 @@
 
-body{
+:root{
 	background-color:skyblue;
 }
 
-.last{	
+body p:last-child{	
 	color: red;
 }
 
